@@ -13,7 +13,7 @@ Average tickets raised in a day
 Segregation of ticket by WPC and EY staff
 Trend analysis on ticket
 
-<img width="1264" height="721" alt="image" src="https://github.com/user-attachments/assets/d200fd34-015b-4af6-a392-47c4f6820f28" />
+
 
 .................................
 .
