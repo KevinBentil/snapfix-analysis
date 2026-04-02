@@ -1,6 +1,13 @@
 # CMMS Implementation and Analysis
 
-## Snapfix CMMS Implementation
+## CMMS Implementation Process
+1. Gathered user requirement through interview and identify inefficiency and gaps with exisiting solution.
+2. Move user requirements gathered from excel sheet into product backlog on Tello. 
+3. Assign user story numbers to each requirement
+4. Prioritized user stories with client using MOSCOW.
+5. The CMMS platform is customisable on all levels, hence no need to further schedule or break down user stories in iterations/sprints. Changes can be made at adminstrator level without engaging tech/ solutions team, unless a code change i.e Change request or additional features.
+7. Design work/ process flow on figma for client demonstration 
+
 Ticket/ Project Analysis
 
 This report is an analysis on snapfix ticket/ tasks and projects.
@@ -27,7 +34,6 @@ Trend analysis on ticket
 <img width="1425" height="804" alt="image" src="https://github.com/user-attachments/assets/5b002187-3f8d-4259-86b9-8ff3c7bf4eb2" />
 
 .................................
-.
 
 
 <img width="1430" height="803" alt="image" src="https://github.com/user-attachments/assets/972b5450-9ad6-4a32-95f0-8e9ccc1f9a83" />
