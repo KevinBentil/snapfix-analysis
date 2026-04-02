@@ -1,15 +1,38 @@
 # CMMS Implementation and Analysis
 
 ## CMMS Implementation Process
-1. Gathered user requirement through interview and identify inefficiency and gaps with exisiting solution.
-2. Move user requirements gathered from excel sheet into product backlog on Tello. 
+1. Gathered client requirement through interview to identify inefficiency and gaps with exisiting solution.
+2. Moved user requirements gathered from excel sheet into product backlog on Tello. 
 3. Assign user story numbers to each requirement
-4. Prioritized user stories with client using MOSCOW.
-5. The CMMS platform is customisable on all levels, hence no need to further schedule or break down user stories in iterations/sprints. Changes can be made at adminstrator level without engaging tech/ solutions team, unless a code change i.e Change request or additional features.
-7. Design work/ process flow on figma for client demonstration 
+4. Prioritized user stories with client into MOSCOW [Must Have - Should Have - Could Have - Won't Have]
+5. The CMMS platform was built customisable on all levels, hence no need to further schedule or break down user stories into iterations/sprints. Changes can be made at adminstrator level based on the solution without engaging tech/ solutions team, unless a code change i.e Change request or additional features.
+7. Design work/ process flow on figma for client demonstration.
+8. Configured platform functionlaties into groupd and sites for ticketting and data collection.
+
+# GO LIVE>> How Data is captured on snapfix for analysis;
+ ##Steps
+1. Created seperate groups for all EY sites
+
+<img width="1550" height="795" alt="image" src="https://github.com/user-attachments/assets/0611f5a0-74c0-4008-96f1-3b5d12481e7c" />
+
+
+3. Defined and configured process for raising a ticket, taking into consideration tags (parameters and headers) useful for analysis i.e
+   (i). creating task locations for each group (e.g Upper ground, lower ground, 1st flr)
+   (ii). creating categories that tickets are likely to fall under (Project, Planned Maintenance, Near Hit)
+   (iii). creating SLA's for tickets (Standard, Emergency, Standard)
+
+Users raising a ticket are presented with the above in the form of fields that are mandatory for generating a ticket.
+<img width="962" height="918" alt="image" src="https://github.com/user-attachments/assets/30ca4430-e55c-4f12-a344-8fbbb76f8346" />
+
+
+Data captured whiles raising a ticket is accessible in a CSV format on the snapfix portal, in 4 different report types.
+
+Data captured whiles raising a ticket is accessible in a CSV format on the snapfix portal, in 4 different report types
+
+If you want the data collected to be shown i na format that is acceptable in a
+
 
 Ticket/ Project Analysis
-
 This report is an analysis on snapfix ticket/ tasks and projects.
 Mainly to give management insights on;
 
@@ -46,27 +69,7 @@ Trend analysis on ticket
 
 
 
-How Data is captured on snapfix for analysis;
-Steps
-1. Created seperate groups for all EY sites
 
-<img width="1550" height="795" alt="image" src="https://github.com/user-attachments/assets/0611f5a0-74c0-4008-96f1-3b5d12481e7c" />
-
-
-3. Defined and configured process for raising a ticket, taking into consideration tags (parameters and headers) useful for analysis i.e
-   (i). creating task locations for each group (e.g Upper ground, lower ground, 1st flr)
-   (ii). creating categories that tickets are likely to fall under (Project, Planned Maintenance, Near Hit)
-   (iii). creating SLA's for tickets (Standard, Emergency, Standard)
-
-Users raising a ticket are presented with the above in the form of fields that are mandatory for generating a ticket.
-<img width="962" height="918" alt="image" src="https://github.com/user-attachments/assets/30ca4430-e55c-4f12-a344-8fbbb76f8346" />
-
-
-Data captured whiles raising a ticket is accessible in a CSV format on the snapfix portal, in 4 different report types.
-
-Data captured whiles raising a ticket is accessible in a CSV format on the snapfix portal, in 4 different report types
-
-If you want the data collected to be shown i na format that is acceptable in a
 
 
 
