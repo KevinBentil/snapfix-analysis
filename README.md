@@ -1,6 +1,6 @@
 # CMMS Implementation and Analysis
 
-## CMMS Implementation Process
+## CMMS Implementation Process followed;
 1. Gathered client requirement through interview to identify inefficiency and gaps with exisiting solution.
 2. Moved user requirements gathered from excel sheet into product backlog on Tello. 
 3. Assign user story numbers to each requirement
@@ -10,16 +10,20 @@
 8. Configured platform functionlaties into groupd and sites for ticketting and data collection.
 
 # GO LIVE>> How Data is captured on snapfix for analysis;
- ##Steps
-1. Created seperate groups for all EY sites
+ ## Steps
+1. Created seperate groups for all EY sites based on site requirement
 
 <img width="1550" height="795" alt="image" src="https://github.com/user-attachments/assets/0611f5a0-74c0-4008-96f1-3b5d12481e7c" />
+__________________________________________________________________________________________________________________________________________________________________________________________________
 
-
-3. Defined and configured process for raising a ticket, taking into consideration tags (parameters and headers) useful for analysis i.e
+2. Configured process for raising tickets, taking into consideration tags (parameters and headers) useful for analysis i.e
    (i). creating task locations for each group (e.g Upper ground, lower ground, 1st flr)
    (ii). creating categories that tickets are likely to fall under (Project, Planned Maintenance, Near Hit)
    (iii). creating SLA's for tickets (Standard, Emergency, Standard)
+
+__________________________________________________________________________________________________________________________________________________________________________________________________
+
+3. Introduced a QR code solutions
 
 Users raising a ticket are presented with the above in the form of fields that are mandatory for generating a ticket.
 <img width="962" height="918" alt="image" src="https://github.com/user-attachments/assets/30ca4430-e55c-4f12-a344-8fbbb76f8346" />
