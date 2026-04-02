@@ -1,5 +1,6 @@
-# snapfix-analysis
+# CMMS Implementation and Analysis
 
+## Snapfix CMMS Implementation
 Ticket/ Project Analysis
 
 This report is an analysis on snapfix ticket/ tasks and projects.
@@ -56,6 +57,10 @@ Users raising a ticket are presented with the above in the form of fields that a
 
 
 Data captured whiles raising a ticket is accessible in a CSV format on the snapfix portal, in 4 different report types.
+
+Data captured whiles raising a ticket is accessible in a CSV format on the snapfix portal, in 4 different report types
+
+If you want the data collected to be shown i na format that is acceptable in a
 
 
 
