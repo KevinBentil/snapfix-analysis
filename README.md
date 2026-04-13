@@ -22,12 +22,24 @@
 <img width="1550" height="795" alt="image" src="https://github.com/user-attachments/assets/0611f5a0-74c0-4008-96f1-3b5d12481e7c" /> .      
 
 2. Configured process for raising tickets, taking into consideration tags (parameters and headers) useful for analysis i.e
-   (i). creating task locations for each group (e.g Upper ground, lower ground, 1st flr)
+   (i). creating task locations for each group (e.g Upper ground, lower ground, 1st floor etc)
    (ii). creating categories that tickets are likely to fall under (Project, Planned Maintenance, Near Hit)
-   (iii). creating SLA's for tickets (Standard, Emergency, Standard).     
+   (iii). creating SLA's for tickets (Standard, Emergency, Standard).
+<img width="1917" height="987" alt="1" src="https://github.com/user-attachments/assets/34f47eda-5b37-4912-a0b5-23e968ce020f" />
 
+<img width="1910" height="941" alt="2" src="https://github.com/user-attachments/assets/e3b30afb-ee8e-429e-9c31-4772028cec27" />
 
-3. Introduced a QR code solutions.
+<img width="1916" height="994" alt="3" src="https://github.com/user-attachments/assets/05d18815-1cc6-40fa-b573-963f6126c699" />
+
+<img width="1916" height="988" alt="4" src="https://github.com/user-attachments/assets/9f7d5a44-ba45-41b3-9c76-3e6dd201f320" />
+
+<img width="1905" height="984" alt="5" src="https://github.com/user-attachments/assets/d9a569ce-28ef-47f6-a0f9-147b5a2616c5" />
+
+<img width="1253" height="798" alt="6" src="https://github.com/user-attachments/assets/3b6ac3b8-d500-4467-a344-d2c6bc44ff56" />
+
+<img width="1917" height="986" alt="7" src="https://github.com/user-attachments/assets/1dc850c0-e71a-4e09-a655-783cbf69190d" />
+
+4. Introduced a QR code solutions.
 These QR code stickers were sticked across the entire building, meeting rooms, cafeteria, table talker in the office aisles, bathrooms and entrances for all sites.
 
 ![IMG_0629](https://github.com/user-attachments/assets/56e7ba8b-0846-414d-b346-ca7104f0a01d) .  
