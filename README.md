@@ -8,7 +8,7 @@
 5. The CMMS platform was built customisable on all levels, hence no need to further schedule or break down user stories into iterations/sprints. Changes can be made at adminstrator level based on the solution without engaging tech/ solutions team, unless a code change i.e Change request or additional features.
 6. Design work/ process flow on figma for client demonstration.
 7. Configured platform functionlaties into groupd and sites for ticketting and data collection.
-8. Migrated data from previous platform (Tririga) for configuration i.e;
+8. Migrated data from previous platform (Tririga) for configuration i.e;.  
     8 (i) Monthly asset PPM's.      
       (ii) WPC meeting room audit.      
       (iii) Soft service supervisor audit.      
