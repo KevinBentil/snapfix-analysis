@@ -2,12 +2,18 @@
 
 ## CMMS Implementation Process followed;
 1. Gathered client requirement through interview to identify inefficiency and gaps with exisiting solution.
-2. Moved user requirements gathered from excel sheet into product backlog on Tello. 
+2. Moved user requirements gathered from excel sheet into product backlog on Trello kanban board.
 3. Assign user story numbers to each requirement
 4. Prioritized user stories with client into MOSCOW [Must Have - Should Have - Could Have - Won't Have]
 5. The CMMS platform was built customisable on all levels, hence no need to further schedule or break down user stories into iterations/sprints. Changes can be made at adminstrator level based on the solution without engaging tech/ solutions team, unless a code change i.e Change request or additional features.
-7. Design work/ process flow on figma for client demonstration.
-8. Configured platform functionlaties into groupd and sites for ticketting and data collection.
+6. Design work/ process flow on figma for client demonstration.
+7. Configured platform functionlaties into groupd and sites for ticketting and data collection.
+8. Migrated data from previous platform (Tririga) for configuration i.e;
+    8 (i) Monthly asset PPM's
+      (ii) WPC meeting room audit
+      (iii) Soft service supervisor audit
+      (iv) Security audit
+      (v) Contractor checklist
 
 # GO LIVE>> How Data is captured on snapfix for analysis;
  ## Steps
