@@ -17,7 +17,11 @@
 
 # GO LIVE>> How Data is captured on snapfix for analysis;
  ## Steps
-1. Created seperate groups for all EY sites based on site requirement
+1. Created seperate groups for each sites based on client's site requirement across Ireland.
+A sample group was created to be replicated for all other sites, as shown;.
+![Uploading Screenshot 2026-04-13 180214.png…]()
+
+
 
 <img width="1550" height="795" alt="image" src="https://github.com/user-attachments/assets/0611f5a0-74c0-4008-96f1-3b5d12481e7c" /> .      
 
