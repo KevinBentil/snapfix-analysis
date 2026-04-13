@@ -9,11 +9,11 @@
 6. Design work/ process flow on figma for client demonstration.
 7. Configured platform functionlaties into groupd and sites for ticketting and data collection.
 8. Migrated data from previous platform (Tririga) for configuration i.e;
-    8 (i) Monthly asset PPM's    
-      (ii) WPC meeting room audit    
-      (iii) Soft service supervisor audit    
-      (iv) Security audit    
-      (v) Contractor checklist    
+    8 (i) Monthly asset PPM's.      
+      (ii) WPC meeting room audit.      
+      (iii) Soft service supervisor audit.      
+      (iv) Security audit.      
+      (v) Contractor checklist.      
 
 # GO LIVE>> How Data is captured on snapfix for analysis;
  ## Steps
