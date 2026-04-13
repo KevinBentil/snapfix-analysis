@@ -20,9 +20,10 @@
 1. Created seperate groups for each sites based on client's site requirement across Ireland.
 A sample group was created to be replicated for all other sites, as shown;.
 
-<img width="1917" height="986" alt="Screenshot 2026-04-13 180214" src="https://github.com/user-attachments/assets/f1a2dbe5-bc16-418c-8abb-377e4cbedc28" />
+<img width="1913" height="989" alt="Screenshot 2026-04-13 180214" src="https://github.com/user-attachments/assets/afc9c196-3e4c-4fc7-a36b-ed4d618b3e7f" />
 
-All 5 sites were created with different tags and parameters
+
+All 5 sites were created with different tags and parameters.    
 
 <img width="1550" height="795" alt="image" src="https://github.com/user-attachments/assets/0611f5a0-74c0-4008-96f1-3b5d12481e7c" /> .      
 
