@@ -33,7 +33,7 @@ These QR code stickers were sticked across the entire building, meeting rooms, c
 ![IMG_0629](https://github.com/user-attachments/assets/56e7ba8b-0846-414d-b346-ca7104f0a01d) .  
 
 Users raising a ticket are presented with the above in the form of fields that are mandatory for generating a ticket.
-<img width="962" height="918" alt="image" src="https://github.com/user-attachments/assets/30ca4430-e55c-4f12-a344-8fbbb76f8346" />
+
 
 <img width="375" height="667" alt="IMG_0631" src="https://github.com/user-attachments/assets/7dcbb9e7-a26d-48dc-b2d5-143428bc5677" /> 
 
