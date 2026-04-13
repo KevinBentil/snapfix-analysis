@@ -19,17 +19,15 @@
  ## Steps
 1. Created seperate groups for all EY sites based on site requirement
 
-<img width="1550" height="795" alt="image" src="https://github.com/user-attachments/assets/0611f5a0-74c0-4008-96f1-3b5d12481e7c" />
-__________________________________________________________________________________________________________________________________________________________________________________________________
+<img width="1550" height="795" alt="image" src="https://github.com/user-attachments/assets/0611f5a0-74c0-4008-96f1-3b5d12481e7c" /> .      
 
 2. Configured process for raising tickets, taking into consideration tags (parameters and headers) useful for analysis i.e
    (i). creating task locations for each group (e.g Upper ground, lower ground, 1st flr)
    (ii). creating categories that tickets are likely to fall under (Project, Planned Maintenance, Near Hit)
-   (iii). creating SLA's for tickets (Standard, Emergency, Standard)
+   (iii). creating SLA's for tickets (Standard, Emergency, Standard).     
 
-__________________________________________________________________________________________________________________________________________________________________________________________________
 
-3. Introduced a QR code solutions
+3. Introduced a QR code solutions.   
 
 Users raising a ticket are presented with the above in the form of fields that are mandatory for generating a ticket.
 <img width="962" height="918" alt="image" src="https://github.com/user-attachments/assets/30ca4430-e55c-4f12-a344-8fbbb76f8346" />
