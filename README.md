@@ -27,7 +27,7 @@ All 5 sites were created with different tags and labels.
 
 <img width="1550" height="795" alt="image" src="https://github.com/user-attachments/assets/0611f5a0-74c0-4008-96f1-3b5d12481e7c" /> .      
 
-2. Configured process for raising tickets, taking into consideration tags (parameters and headers) useful for analysis i.e
+2. I configured process for raising tickets, taking into consideration tags & labels (spreadsheet headers) useful for analysis i.e
    (i). creating task locations for each group (e.g Upper ground, lower ground, 1st floor etc)
    (ii). creating categories that tickets are likely to fall under (Project, Planned Maintenance, Near Hit)
    (iii). creating SLA's for tickets (Standard, Emergency, Standard).
@@ -62,9 +62,9 @@ Users raising a ticket are presented with the above in the form of fields that a
 
 Data captured whiles raising a ticket is accessible in a CSV format on the snapfix portal, in 4 different report types.
 
-Data captured whiles raising a ticket is accessible in a CSV format on the snapfix portal, in 4 different report types
+            
 
-If you want the data collected to be shown i na format that is acceptable in a
+
 
 
 Ticket/ Project Analysis
@@ -114,6 +114,21 @@ Trend analysis on ticket
 Introduced for the purpose of monitoring week on week cleaning audit
 
 <img width="1431" height="800" alt="image" src="https://github.com/user-attachments/assets/e65eee74-c8dc-41fc-8ca4-7ec042872139" />
+
+
+
+**Asset Management** 
+
+Furniture asset data was migrated from excel sheet onto the snapfix. An improvement from the previous solution;.  
+<img width="1436" height="762" alt="Screenshot 2026-04-13 at 7 03 38 p m" src="https://github.com/user-attachments/assets/c338f825-67d7-4c86-accb-cbf356201089" />
+
+The image of each asset was caputured. Phase 2 will feature introduction of NFC or barcode to be placed on each assets.
+<img width="1440" height="685" alt="Screenshot 2026-04-13 at 7 06 04 p m" src="https://github.com/user-attachments/assets/16223faa-3967-4405-8600-da1b25991f00" />
+
+<img width="1440" height="722" alt="Screenshot 2026-04-13 at 7 06 25 p m" src="https://github.com/user-attachments/assets/e81c7860-27ae-44c5-b601-8f2fe693f14a" />
+
+
+
 
 
 
