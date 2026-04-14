@@ -38,7 +38,7 @@ Reduce dependency on technical teams for configuration changes.
 
 # GO LIVE & Operational Enablement;
  ## Multi-Site Rollout
-1.I created a standardized site template in a form of a site group, replicated across all client locations in Ireland.    
+I created a standardized site template in a form of a site group, replicated across all client locations in Ireland.    
   
 
 
@@ -48,10 +48,13 @@ Each site confiugured with unique tags and labels to enable both local managemen
 
 <img width="1550" height="795" alt="image" src="https://github.com/user-attachments/assets/0611f5a0-74c0-4008-96f1-3b5d12481e7c" /> .      
 
-2. I configured process for raising tickets, taking into consideration tags & labels (spreadsheet headers) useful for analysis i.e.   
-   (i). creating task locations for each group (e.g Upper ground, lower ground, 1st floor etc).   
-   (ii). creating categories that tickets are likely to fall under (Project, Planned Maintenance, Near Hit).   
-   (iii). creating SLA's for tickets (Standard, Emergency, Standard).     
+## Reactive Ticket Intake & Workflow standardization.  
+Configured structured ticket creation to ensure high-quality, analyzable data:.  
+
+--Defined task locations (e.g., floors, zones, areas).  
+--Standardized ticket categories (e.g. Repair & Maintenance, Facilities Events, Workplace services Planned Maintenance, Projects, Near Miss etc ).  
+--Implemented SLA tiers (Important, Project, Standard, Emergency).  
+     
 <img width="1917" height="987" alt="1" src="https://github.com/user-attachments/assets/34f47eda-5b37-4912-a0b5-23e968ce020f" />
 
 <img width="1910" height="941" alt="2" src="https://github.com/user-attachments/assets/e3b30afb-ee8e-429e-9c31-4772028cec27" />
@@ -66,7 +69,7 @@ Each site confiugured with unique tags and labels to enable both local managemen
 
 <img width="1917" height="986" alt="7" src="https://github.com/user-attachments/assets/1dc850c0-e71a-4e09-a655-783cbf69190d" />
 
-# 4. QR Code–Enabled Service Requests.     
+# QR Code–Enabled Service Requests.     
 I deployed QR codes across all buildings (meeting rooms, common areas, restrooms, entrances).  
 Enabled fast, intuitive ticket creation via mobile devices.     
 Enforced mandatory fields to improve data completeness and accuracy. 
