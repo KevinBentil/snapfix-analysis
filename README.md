@@ -150,5 +150,15 @@ Captured images for each asset to improve traceability and verification. This es
 
 ### Planned Phase 2 Enhancements:
 
-NFC or barcode tagging for each asset
+NFC or barcode tagging for each asset.  
 Faster audits and improved asset lifecycle tracking
+
+
+# Business Impact & Value Delivered
+
+Improved visibility of maintenance and service performance.   
+Reduced manual reporting and spreadsheet dependency.    
+Increased accountability through SLA tracking.    
+Enhanced decision-making through standardized data.       
+Scalable solution supporting future sites and services.      
+
