@@ -5,18 +5,18 @@
 This project documents the successful implementation of a centralized CMMS solution across multiple client sites in Ireland, replacing a legacy platform (IBM TRIRIGA). The implementation focused on improving visibility, standardization, and data-driven decision-making for facilities, maintenance, and workplace services.
 The solution enables:.    
 
-Consistent ticket intake across sites.      
-Real-time operational reporting.      
-Improved SLA compliance tracking.      
-Enhanced asset and audit management.     
-Actionable insights for senior management.  
+--Consistent ticket intake across sites.      
+--Real-time operational reporting.      
+--Improved SLA compliance tracking.      
+--Enhanced asset and audit management.     
+--Actionable insights for senior management.  
 
 ### Business Objectives.   
-Eliminate inefficiencies in the existing maintenance management process.   
-Standardize service request and audit data across all sites.   
-Improve response times and SLA governance.   
-Provide leadership with clear, reliable operational insights.   
-Reduce dependency on technical teams for configuration changes.   
+--Eliminate inefficiencies in the existing maintenance management process.   
+--Standardize service request and audit data across all sites.   
+--Improve response times and SLA governance.   
+--Provide leadership with clear, reliable operational insights.   
+--Reduce dependency on technical teams for configuration changes.   
 
 ## CMMS Implementation Process followed;
 1. Gathered client requirement through interview to identify inefficiency and gaps with exisiting solution.
