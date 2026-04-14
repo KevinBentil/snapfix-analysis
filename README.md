@@ -36,22 +36,22 @@ Reduce dependency on technical teams for configuration changes.
 
      
 
-# GO LIVE>> How Data is captured on snapfix for analysis;
- ## Steps
-1. Created seperate groups for each sites based on client's site requirement across Ireland.
-A sample group was created to be replicated for all other sites, as shown;.
+# GO LIVE & Operational Enablement;
+ ## Multi-Site Rollout
+1.I created a standardized site template in a form of a site group, replicated across all client locations in Ireland.    
+  
+
 
 <img width="1913" height="989" alt="Screenshot 2026-04-13 180214" src="https://github.com/user-attachments/assets/afc9c196-3e4c-4fc7-a36b-ed4d618b3e7f" />
 
-
-All 5 sites were created with different tags and labels.    
+Each site confiugured with unique tags and labels to enable both local management and group-level reporting.     
 
 <img width="1550" height="795" alt="image" src="https://github.com/user-attachments/assets/0611f5a0-74c0-4008-96f1-3b5d12481e7c" /> .      
 
-2. I configured process for raising tickets, taking into consideration tags & labels (spreadsheet headers) useful for analysis i.e
-   (i). creating task locations for each group (e.g Upper ground, lower ground, 1st floor etc)
-   (ii). creating categories that tickets are likely to fall under (Project, Planned Maintenance, Near Hit)
-   (iii). creating SLA's for tickets (Standard, Emergency, Standard).
+2. I configured process for raising tickets, taking into consideration tags & labels (spreadsheet headers) useful for analysis i.e.   
+   (i). creating task locations for each group (e.g Upper ground, lower ground, 1st floor etc).   
+   (ii). creating categories that tickets are likely to fall under (Project, Planned Maintenance, Near Hit).   
+   (iii). creating SLA's for tickets (Standard, Emergency, Standard).     
 <img width="1917" height="987" alt="1" src="https://github.com/user-attachments/assets/34f47eda-5b37-4912-a0b5-23e968ce020f" />
 
 <img width="1910" height="941" alt="2" src="https://github.com/user-attachments/assets/e3b30afb-ee8e-429e-9c31-4772028cec27" />
@@ -66,8 +66,12 @@ All 5 sites were created with different tags and labels.
 
 <img width="1917" height="986" alt="7" src="https://github.com/user-attachments/assets/1dc850c0-e71a-4e09-a655-783cbf69190d" />
 
-4. Introduced a QR code solutions.
-These QR code stickers were sticked across the entire building, meeting rooms, cafeteria, table talker in the office aisles, bathrooms and entrances for all sites.
+# 4. QR Code–Enabled Service Requests.     
+I deployed QR codes across all buildings (meeting rooms, common areas, restrooms, entrances).  
+Enabled fast, intuitive ticket creation via mobile devices.     
+Enforced mandatory fields to improve data completeness and accuracy. 
+
+### Key Outcome:  Increased user adoption and reduced friction in raising service requests.
 
 ![IMG_0629](https://github.com/user-attachments/assets/56e7ba8b-0846-414d-b346-ca7104f0a01d) .  
 
@@ -81,48 +85,24 @@ Users raising a ticket are presented with the above in the form of fields that a
 
 
 
-Data captured whiles raising a ticket is accessible in a CSV format on the snapfix portal, in 4 different report types.
+# **Reporting, Analysis & Management Insights**
+All operational data is accessible via the CMMS portal and exportable in CSV format across multiple report types.   
 
-            
+Designed dashboards and reports to support management oversight, including:.  
 
-
-
-
-Ticket/ Project Analysis
-This report is an analysis on snapfix ticket/ tasks and projects.
-Mainly to give management insights on;
-
-The number of tickets raised per EY sites
-Count of ticket type
-Identify non-compliant tickets
-Ticket resolution period
-Average tickets raised in a day
-Segregation of ticket by WPC and EY staff
-Trend analysis on ticket
-
-
-
-.................................
-.
+--Volume of tickets by site.   
+--Ticket type distribution.   
+--SLA compliance and non-compliant tickets.   
+--Average resolution times.   
+--Daily ticket trends.   
+--Segregation of tickets raised by internal staff vs service providers.   
+--Trend analysis for workload forecasting.   
 
 <img width="1425" height="801" alt="image" src="https://github.com/user-attachments/assets/46c65c52-0be1-47f9-ad39-5b8cacdbfef5" />
 
-.................................
-.
-
 <img width="1425" height="804" alt="image" src="https://github.com/user-attachments/assets/5b002187-3f8d-4259-86b9-8ff3c7bf4eb2" />
 
-.................................
-
-
 <img width="1430" height="803" alt="image" src="https://github.com/user-attachments/assets/972b5450-9ad6-4a32-95f0-8e9ccc1f9a83" />
-
-.................................
-.
-
-
-
-
 
 
 
