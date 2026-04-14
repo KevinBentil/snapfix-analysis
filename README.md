@@ -129,9 +129,11 @@ The image of each asset was caputured. Phase 2 will feature introduction of NFC 
 
 
 
+**MODIFIED**
 
-
-
+**CMMS Implementation & Performance Analysis**
+*Executive Summary*
+This project documents the successful implementation of a centralized CMMS solution across multiple client sites in Ireland, replacing a legacy platform (IBM TRIRIGA). The implementation focused on improving visibility, standardization, and data-driven decision-making for facilities, maintenance, and workplace services.
 
 
 
