@@ -107,6 +107,11 @@ Designed dashboards and reports to support management oversight, including:.
 
 <img width="1430" height="803" alt="image" src="https://github.com/user-attachments/assets/972b5450-9ad6-4a32-95f0-8e9ccc1f9a83" />
 
+## BI Formula's for Analysis
+<img width="545" height="259" alt="1" src="https://github.com/user-attachments/assets/fc6ea03b-452b-472a-88c6-b778c84e04c8" />
+<img width="587" height="248" alt="2" src="https://github.com/user-attachments/assets/db7e9b5e-67ff-410a-9666-9b0b7bcdf7c4" />
+<img width="599" height="241" alt="3" src="https://github.com/user-attachments/assets/e6259043-6f49-4b86-a51c-929507e51513" />
+
 
 
 
