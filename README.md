@@ -1,4 +1,22 @@
-# CMMS Implementation and Analysis
+# CMMS Implementation and Performance Analysis
+
+
+### Executive Summary.  
+This project documents the successful implementation of a centralized CMMS solution across multiple client sites in Ireland, replacing a legacy platform (IBM TRIRIGA). The implementation focused on improving visibility, standardization, and data-driven decision-making for facilities, maintenance, and workplace services.
+The solution enables:.    
+
+Consistent ticket intake across sites.      
+Real-time operational reporting.      
+Improved SLA compliance tracking.      
+Enhanced asset and audit management.     
+Actionable insights for senior management.  
+
+### Business Objectives.   
+Eliminate inefficiencies in the existing maintenance management process.   
+Standardize service request and audit data across all sites.   
+Improve response times and SLA governance.   
+Provide leadership with clear, reliable operational insights.   
+Reduce dependency on technical teams for configuration changes.   
 
 ## CMMS Implementation Process followed;
 1. Gathered client requirement through interview to identify inefficiency and gaps with exisiting solution.
@@ -13,7 +31,10 @@
       (ii) WPC meeting room audit.      
       (iii) Soft service supervisor audit.      
       (iv) Security audit.      
-      (v) Contractor checklist.      
+      (v) Contractor checklist.
+
+
+     
 
 # GO LIVE>> How Data is captured on snapfix for analysis;
  ## Steps
@@ -117,24 +138,17 @@ Introduced for the purpose of monitoring week on week cleaning audit
 
 
 
-**Asset Management** 
+### Asset Management Enhancement.   
 
-Furniture asset data was migrated from excel sheet onto the snapfix. An improvement from the previous solution;.  
+Migrated furniture asset data from spreadsheets into the CMMS.   
 <img width="1436" height="762" alt="Screenshot 2026-04-13 at 7 03 38 p m" src="https://github.com/user-attachments/assets/c338f825-67d7-4c86-accb-cbf356201089" />
 
-The image of each asset was caputured. Phase 2 will feature introduction of NFC or barcode to be placed on each assets.
+Captured images for each asset to improve traceability and verification. This established a foundation for advanced asset tracking
 <img width="1440" height="685" alt="Screenshot 2026-04-13 at 7 06 04 p m" src="https://github.com/user-attachments/assets/16223faa-3967-4405-8600-da1b25991f00" />
 
 <img width="1440" height="722" alt="Screenshot 2026-04-13 at 7 06 25 p m" src="https://github.com/user-attachments/assets/e81c7860-27ae-44c5-b601-8f2fe693f14a" />
 
+### Planned Phase 2 Enhancements:
 
-
-**MODIFIED**
-
-**CMMS Implementation & Performance Analysis**
-*Executive Summary*
-This project documents the successful implementation of a centralized CMMS solution across multiple client sites in Ireland, replacing a legacy platform (IBM TRIRIGA). The implementation focused on improving visibility, standardization, and data-driven decision-making for facilities, maintenance, and workplace services.
-
-
-
-
+NFC or barcode tagging for each asset
+Faster audits and improved asset lifecycle tracking
